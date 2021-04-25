@@ -1,0 +1,4 @@
+[ INFO ]      Message 1
+[ WARNING ]   Message 1
+[ SEVERE ]    Message 1
+[ SEVERE ]    Message 2
